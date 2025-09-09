@@ -32,7 +32,7 @@ A real-time multiplayer Pictionary game with cross-platform support for web and 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/pictionary-app.git
+git clone https://github.com/yourusername/pictionary-app.git](https://github.com/DanielCalvillo/Baires-Dev-Challenge.git
 cd pictionary-app
 ```
 
